@@ -1,0 +1,27 @@
+h1,
+h2 {
+    color: indianred;
+}
+
+p {
+    color: gray;
+}
+
+ul {
+    border: 2px solid orange;
+}
+
+ol {
+    border: 10px solid purple;
+}
+
+ol,
+ul {
+    padding: 20px 20px;
+    border-radius: 4px;
+}
+
+h1,
+strong {
+    color: red;
+}
